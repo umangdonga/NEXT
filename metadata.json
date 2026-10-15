@@ -1,0 +1,6 @@
+{
+  "name": "NEXT Bank Kiosk - Account Opening",
+  "description": "Intuitive self-service banking kiosk flow for opening a savings account with Aadhaar & PAN verification, clean signature capture, and passbook issuance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
